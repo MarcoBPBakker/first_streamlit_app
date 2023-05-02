@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('Pablo & Pedro/'s Kattenbak')
+streamlit.title('Pablo & Pedro\'s Kattenbak')
