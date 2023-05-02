@@ -7,4 +7,4 @@ streamlit.text('🥗 brokjes met kattemelk')
 streamlit.text('🐔 gekookte kip op kattengras')
 streamlit.text('🥣 haring gemarineerd in zalmsaus')
 
-streamlit.header('🍌🥭 Smoothie\s voor de baasjes? 🥝🍇')
+streamlit.header('🍌🥭 Smoothie\'s voor de baasjes? 🥝🍇')
